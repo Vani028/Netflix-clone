@@ -8,6 +8,10 @@ body {
   background-size: cover;
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
+a{
+  text-decoration:none;
+  color:white;
+}
 
 .img-logo {
   height: 94px;
